@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@argent/starknet-react-webwallet-connector": "^6.0.3",
     "@next/font": "13.1.6",
     "@starknet-react/core": "^0.14.8",
     "@types/node": "18.11.18",
